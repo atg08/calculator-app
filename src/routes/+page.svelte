@@ -105,7 +105,7 @@
             </div>     
             <div class="operations">
                 {#each operations as operation (operation)}
-                    <button class={`btn ${operation === selecterOperation ? "btn-silver" : "btn-rown"}`} 
+                    <button class={`btn ${operation === selecterOperation ? "btn-beige" : "btn-brown"}`} 
                         on:click={() => handleOperationClick(operation)}> {operation} </button>       
                 {/each}
             </div>       
@@ -156,9 +156,9 @@
       width: 110px;
     }
     .btn-brown {
-      background-color: rgb(44, 29, 0);
+      background-color: rgb(54, 38, 7);
     }
-    .btn-silver {
+    .btn-beige {
       background-color: rgb(152, 117, 84);
     }
     .btn-xlg {
