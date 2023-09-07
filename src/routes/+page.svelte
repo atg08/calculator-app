@@ -34,7 +34,6 @@
           case "-":
             results = (firstNum-secondNum).toFixed(2);
             break;
-
         }
 
         display = results;
@@ -51,7 +50,6 @@
       selecterOperation = ""
       display = ""
       isDisplayingResult = false
-
     }
 
     const handleNumberClick = (number: string) => {
