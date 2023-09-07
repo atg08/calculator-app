@@ -5,17 +5,12 @@ This is a basic calculator web application built using HTML, CSS, and JavaScript
 Addition, subtraction, multiplication, and division operations.
 Clear button to reset the input and result.
 
-# Usage
-Enter numbers and perform calculations by clicking the buttons.
-Click the "=" button to see the result of your calculation.
-Use the "C" button to clear the input and start a new calculation.
-
 # Technologies Used
-HTML
-CSS
-JavaScript
-Svelte - A JavaScript framework for building user interfaces.
+HTML,
+CSS,
+JavaScript,
+Svelte  
 
 # Author
-Aditti Gupta
-Inspired by The Svelte Crash Course by Laith Academy
+- Aditti Gupta
+- Inspired by The Svelte Crash Course by Laith Academy
